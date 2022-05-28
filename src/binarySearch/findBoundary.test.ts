@@ -1,4 +1,3 @@
-import { describe, expect, it } from 'vitest'
 import findBoundary from './findBoundary'
 
 describe('findBoundary', () => {
